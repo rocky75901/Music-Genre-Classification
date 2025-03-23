@@ -1,1 +1,1 @@
-Music Genre Classification (EE-708)
+**Music Genre Classification (EE-708)**
